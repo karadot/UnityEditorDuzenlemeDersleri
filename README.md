@@ -1,5 +1,7 @@
 # Karadot Unity3d Editor Düzenleme Dersleri
-Karadot isimli YouTube kanalımda yayınladığım Editor Düzenleme Derslerinde kullandığım dosyaların kodları.
+Karadot isimli YouTube kanalımda yayınladığım Editor Düzenleme Derslerinde kullandığım dosyaların kodları. 
+
+Kodlar derslerdekilerden biraz farklılık gösterebilir ancak aynı şekilde çalışacaktır. Açıklamaların yanında ayrıca pratik olması amacıyla yapılabilecek düzenlemelere dair önerilerde de bulundum.
 
 ## Dersler  
 **1. Editor Düzenleme :** https://youtu.be/0VHZcoffM7c  
