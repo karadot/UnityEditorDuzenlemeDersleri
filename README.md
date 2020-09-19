@@ -10,6 +10,6 @@ Kodlar derslerdekilerden biraz farklılık gösterebilir ancak aynı şekilde ç
 ***
 
 **Editor düzenleme dersinde kullandığım ikonların linkleri:**  
-1.[Health](https://www.flaticon.com/free-icon/health-care_2646197)  
+1.[Health](https://www.flaticon.com/free-icon/health-care_2646197")  
 2.[Mana](https://www.flaticon.com/free-icon/smoke_867820)  
 3.[Güç](https://www.flaticon.com/free-icon/body-building_94085)  
